@@ -1,15 +1,3 @@
-
-//Midterm Project 
-
-//Team_18
-
-//U1810034 Furqat Mirzajonov
-//U1810055 Rakhmonov Sardor
-//U1810074 Anora Sultonova
-//U1810279 Abbos Alimukhamedov
-//U1810295 Shakhzoda Khomitova
-
-
 #include <stdio.h>
 #include <wiringPi.h>
 #include <stdbool.h>
